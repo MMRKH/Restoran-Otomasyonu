@@ -1,0 +1,18 @@
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\bin\Debug\net6.0-windows\Restoran otomasyonu.exe
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\bin\Debug\net6.0-windows\Restoran otomasyonu.deps.json
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\bin\Debug\net6.0-windows\Restoran otomasyonu.runtimeconfig.json
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\bin\Debug\net6.0-windows\Restoran otomasyonu.dll
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\bin\Debug\net6.0-windows\Restoran otomasyonu.pdb
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran otomasyonu.csproj.AssemblyReference.cache
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran_otomasyonu.Form1.resources
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran otomasyonu.csproj.GenerateResource.cache
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran otomasyonu.AssemblyInfoInputs.cache
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran otomasyonu.AssemblyInfo.cs
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran otomasyonu.dll
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\refint\Restoran otomasyonu.dll
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran otomasyonu.pdb
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran otomasyonu.genruntimeconfig.cache
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\ref\Restoran otomasyonu.dll
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran_otomasyonu.Form2.resources
