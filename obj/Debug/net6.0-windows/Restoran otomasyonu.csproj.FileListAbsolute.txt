@@ -16,3 +16,4 @@ C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\ne
 C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran otomasyonu.genruntimeconfig.cache
 C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\ref\Restoran otomasyonu.dll
 C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran_otomasyonu.Form2.resources
+C:\Users\mmrkh\source\repos\Restoran otomasyonu\Restoran otomasyonu\obj\Debug\net6.0-windows\Restoran_otomasyonu.Form3.resources
